@@ -91,19 +91,19 @@ fun_fact: "I code, I build, I break things, and then I fix them better 🔧"
 <tr>
 <td width="50%" align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=narasimha9495&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=C9D1D9&ring_color=70A5FD&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=narasimha9495&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=C9D1D9&ring_color=70A5FD&count_private=true&include_all_commits=true)
 
 </td>
 <td width="50%" align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=narasimha9495&theme=tokyonight&hide_border=true&background=0D1117&stroke=70A5FD&ring=70A5FD&fire=FF652F&currStreakLabel=70A5FD&sideLabels=70A5FD&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=545454)
+![GitHub Streak](https://streak-stats.demolab.com?user=narasimha9495&theme=tokyonight&hide_border=true&background=0D1117&stroke=70A5FD&ring=70A5FD&fire=FF652F&currStreakLabel=70A5FD&sideLabels=70A5FD&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=545454)
 
 </td>
 </tr>
 </table>
 
 <!-- TOP LANGUAGES -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narasimha9495&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=C9D1D9&langs_count=8)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=narasimha9495&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=C9D1D9&langs_count=8)
 
 </div>
 
@@ -147,10 +147,10 @@ fun_fact: "I code, I build, I break things, and then I fix them better 🔧"
 
 <div align="center">
 
-[![AI-SmartStay](https://github-readme-stats.vercel.app/api/pin/?username=narasimha9495&repo=AI-SmartStay&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=C9D1D9)](https://github.com/narasimha9495/AI-SmartStay)
-[![Smart-Agriculture](https://github-readme-stats.vercel.app/api/pin/?username=narasimha9495&repo=Smart-Agriculture-Hilly-Regions&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=C9D1D9)](https://github.com/narasimha9495/Smart-Agriculture-Hilly-Regions)
-[![Smart-Attendance](https://github-readme-stats.vercel.app/api/pin/?username=narasimha9495&repo=Smart-Attendance-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=C9D1D9)](https://github.com/narasimha9495/Smart-Attendance-System)
-[![LabNova](https://github-readme-stats.vercel.app/api/pin/?username=narasimha9495&repo=LabNova&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=C9D1D9)](https://github.com/narasimha9495/LabNova)
+[![AI-SmartStay](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=narasimha9495&repo=AI-SmartStay&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=C9D1D9)](https://github.com/narasimha9495/AI-SmartStay)
+[![Smart-Agriculture](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=narasimha9495&repo=Smart-Agriculture-Hilly-Regions&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=C9D1D9)](https://github.com/narasimha9495/Smart-Agriculture-Hilly-Regions)
+[![Smart-Attendance](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=narasimha9495&repo=Smart-Attendance-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=C9D1D9)](https://github.com/narasimha9495/Smart-Attendance-System)
+[![LabNova](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=narasimha9495&repo=LabNova&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=C9D1D9)](https://github.com/narasimha9495/LabNova)
 
 </div>
 
