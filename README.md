@@ -1,97 +1,74 @@
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- 🚀 GITHUB PROFILE README — narasimha9495                            -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<!-- ANIMATED WAVE HEADER -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1B27,100:70A5FD&height=220&section=header&text=Hey%20There!%20I'm%20Narasimha%20👋&fontSize=36&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descSize=16&descColor=70A5FD&descAlignY=55)
-
-<!-- TYPING SVG ANIMATION -->
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=100&lines=🚀+Full+Stack+MERN+Developer;🤖+AI+%26+Machine+Learning+Enthusiast;🌱+Always+Learning%2C+Always+Building;💡+Turning+Ideas+into+Reality)](https://git.io/typing-svg)
-
-</div>
-
-<!-- PROFILE VIEWS COUNTER -->
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=narasimha9495&color=70A5FD&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/narasimha9495?style=for-the-badge&color=70A5FD&labelColor=0D1117)](https://github.com/narasimha9495?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/narasimha9495?style=for-the-badge&color=70A5FD&labelColor=0D1117)](https://github.com/narasimha9495?tab=repositories)
-
-</div>
-
----
-
-<!-- ABOUT ME SECTION -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
-
-```yaml
-name: Laxmi Narasimha Reddy
-located_in: India 🇮🇳
-current_focus: Full Stack Development & AI/ML
-education: Computer Science
-
-fields_of_interest:
-  - "Full Stack Web Development"
-  - "Artificial Intelligence & ML"
-  - "IoT & Smart Systems"
-  - "Open Source"
-
-currently_building:
-  - "🧠 Smart Attendance System"
-  - "🌾 Smart Agriculture for Hilly Regions"
-  - "🔍 Fake Review Detector"
-  - "🏨 AI-SmartStay - AI-powered Hostel Finder"
-
-fun_fact: "I code, I build, I break things, and then I fix them better 🔧"
-```
-
----
-
-<!-- TECH STACK -->
-## 🛠️ Tech Arsenal
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--        B LAXMI NARASIMHA REDDY — GITHUB PROFILE              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### 👨‍💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<!-- CUSTOM BANNER -->
+<img src="./assets/banner.jpg" width="100%" alt="banner"/>
 
-### 🧩 Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+<br><br>
 
-### 🗄️ Databases & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+# Welcome to Narasimha's GitHub </>
 
-### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+<br>
+
+<!-- SOCIAL BADGES -->
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bobbala-laxmi-narasimha-reddy-689a01320/)
+[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:budhilreddy024@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/narasimha9495)
 
 </div>
 
 ---
 
-<!-- GITHUB STATS -->
-## 📊 GitHub Stats
-
+<!-- ═══════════════ TECHNOLOGIES ═══════════════ -->
 <div align="center">
+
+## ⚙️ *Technologies*
+
+#### Languages
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/PYTHON-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=512BD4)
+![HTML5](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+
+#### Frameworks & Libraries
+![React](https://img.shields.io/badge/REACT-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/NODE.JS-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![Express](https://img.shields.io/badge/EXPRESS-0D1117?style=for-the-badge&logo=express&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=512BD4)
+![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-0D1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+![Tailwind](https://img.shields.io/badge/TAILWIND-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+
+#### Databases & Tools
+![MongoDB](https://img.shields.io/badge/MONGODB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MYSQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Git](https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_CODE-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Postman](https://img.shields.io/badge/POSTMAN-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Figma](https://img.shields.io/badge/FIGMA-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Vercel](https://img.shields.io/badge/VERCEL-0D1117?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+---
+
+<!-- ═══════════════ STATISTICS ═══════════════ -->
+<div align="center">
+
+## 📊 *Statistics*
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=narasimha9495&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FFFFFF&area=true&area_color=70A5FD)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <table>
 <tr>
 <td width="50%" align="center">
 
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=narasimha9495&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=C9D1D9&ring_color=70A5FD&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=narasimha9495&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=C9D1D9&count_private=true&include_all_commits=true)
 
 </td>
 <td width="50%" align="center">
@@ -102,28 +79,80 @@ fun_fact: "I code, I build, I break things, and then I fix them better 🔧"
 </tr>
 </table>
 
-<!-- TOP LANGUAGES -->
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=narasimha9495&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=C9D1D9&langs_count=8)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=narasimha9495&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=C9D1D9&langs_count=8)
 
 </div>
 
 ---
 
-<!-- ACTIVITY GRAPH -->
-## 📈 Contribution Graph
-
+<!-- ═══════════════ ABOUT ME ═══════════════ -->
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=narasimha9495&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FFFFFF&area=true&area_color=70A5FD)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 🧑‍💻 *About Me*
 
 </div>
 
+<table>
+<tr>
+<td width="35%" align="center">
+
+<img src="./assets/developer_avatar.jpg" width="280" alt="developer illustration"/>
+
+</td>
+<td width="65%">
+
+Hey! My name is **B Laxmi Narasimha Reddy**, and I'm a Full Stack Developer who is working towards becoming an AI Engineer. I'm currently studying at **Nalla Narasimha Reddy Group of Institutions**, and honestly, most of my time goes into building things and figuring out how stuff works under the hood.
+
+I'm someone who stays locked in once I start working on something. Whether it's studies or a project, I give it my full attention — no half measures. I don't just write code to get things done, I actually care about understanding what I'm building and why. That's just how I operate.
+
+Right now I'm deep into the **MERN stack**, **Python**, **SQL**, and **.NET**, and I'm slowly making my way into AI and Machine Learning because that's where I see myself going next. I like picking up new tools and frameworks, not because they're trendy, but because they help me build better things.
+
+*"The grind doesn't stop just because nobody's watching."*
+
+</td>
+</tr>
+</table>
+
 ---
 
-<!-- TROPHIES -->
-## 🏆 GitHub Trophies
-
+<!-- ═══════════════ HOBBIES & GOALS ═══════════════ -->
 <div align="center">
+
+## 🎯 *Hobbies & Goals*
+
+</div>
+
+<table>
+<tr>
+<td width="60%">
+
+🎮 &nbsp; When I'm not coding, you'll probably find me **gaming** — it's how I unwind and honestly, it keeps my reflexes sharp.
+
+🚗 &nbsp; I have a serious thing for **cars**. I love them as much as I love my family, and that's saying something. Everything about them — the engineering, the design, the speed — just gets me going.
+
+🏢 &nbsp; My biggest goal? **Own a company and run a business.** I'm not building skills just to work for someone forever. I'm building them to create something of my own one day.
+
+🧠 &nbsp; Right now I'm focused on becoming an **AI Engineer** — that's the next chapter I'm writing for myself.
+
+📚 &nbsp; Student at **Nalla Narasimha Reddy Group of Institutions**
+
+> *"Dream big. Work hard. Stay consistent. Never quit."*
+
+</td>
+<td width="40%" align="center">
+
+<img src="./assets/hobbies_avatar.jpg" width="280" alt="hobbies illustration"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════ TROPHIES ═══════════════ -->
+<div align="center">
+
+## 🏆 *Trophies*
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=narasimha9495&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -131,10 +160,10 @@ fun_fact: "I code, I build, I break things, and then I fix them better 🔧"
 
 ---
 
-<!-- SNAKE ANIMATION -->
-## 🐍 Watch the Snake Eat My Contributions
-
+<!-- ═══════════════ SNAKE ═══════════════ -->
 <div align="center">
+
+## 🐍 *Contribution Snake*
 
 ![Snake animation](https://raw.githubusercontent.com/narasimha9495/narasimha9495/output/github-snake-dark.svg)
 
@@ -142,10 +171,10 @@ fun_fact: "I code, I build, I break things, and then I fix them better 🔧"
 
 ---
 
-<!-- FEATURED PROJECTS -->
-## 🚀 Featured Projects
-
+<!-- ═══════════════ FEATURED PROJECTS ═══════════════ -->
 <div align="center">
+
+## 🚀 *What I've Been Building*
 
 [![AI-SmartStay](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=narasimha9495&repo=AI-SmartStay&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=C9D1D9)](https://github.com/narasimha9495/AI-SmartStay)
 [![Smart-Agriculture](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=narasimha9495&repo=Smart-Agriculture-Hilly-Regions&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=C9D1D9)](https://github.com/narasimha9495/Smart-Agriculture-Hilly-Regions)
@@ -156,34 +185,13 @@ fun_fact: "I code, I build, I break things, and then I fix them better 🔧"
 
 ---
 
-<!-- CONNECT WITH ME -->
-## 🤝 Connect With Me
-
+<!-- ═══════════════ FOOTER ═══════════════ -->
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/narasimha9495)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+![Profile Views](https://komarev.com/ghpvc/?username=narasimha9495&color=70A5FD&style=flat-square&label=Profile+Views)
 
-</div>
+*Built with focus and a lot of late nights ☕*
 
----
-
-<!-- RANDOM DEV QUOTE -->
-<div align="center">
-
-### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ If you like my projects, give them a star! ⭐
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1B27,100:70A5FD&height=120&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1B27,100:70A5FD&height=100&section=footer" width="100%"/>
 
 </div>
