@@ -2,8 +2,6 @@
 
 <img src="./assets/banner.jpg" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=Hi,%20I'm%20Narasimha%20👋&fontSize=40&fontColor=FFFFFF&fontAlignY=50&desc=Full%20Stack%20Developer%20%20·%20%20Aspiring%20AI%20Engineer&descSize=16&descColor=70A5FD&descAlignY=80" width="100%"/>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=500&height=30&lines=MERN+Stack+%7C+Python+%7C+.NET+%7C+AI%2FML+%7C+SQL)](https://git.io/typing-svg)
 
 <br>
