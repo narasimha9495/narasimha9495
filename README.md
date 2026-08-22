@@ -1,24 +1,14 @@
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--     B LAXMI NARASIMHA REDDY — DEVELOPER DASHBOARD PROFILE        -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 <img src="./assets/banner.jpg" width="100%"/>
 
 <br>
 
-# Hi, I'm Narasimha 👋
-### Full Stack Developer · Aspiring AI Engineer
-
-`Full Stack` &nbsp; `MERN` &nbsp; `AI/ML` &nbsp; `.NET` &nbsp; `Python`
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bobbala-laxmi-narasimha-reddy-689a01320/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:budhilreddy024@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/narasimha9495)
-![Views](https://komarev.com/ghpvc/?username=narasimha9495&color=70A5FD&style=flat-square&label=Profile+Views)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bobbala-laxmi-narasimha-reddy-689a01320/)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:budhilreddy024@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/narasimha9495)
 
 </div>
 
