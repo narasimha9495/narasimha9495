@@ -2,6 +2,10 @@
 
 <img src="./assets/banner.jpg" width="100%"/>
 
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=Hi,%20I'm%20Narasimha%20👋&fontSize=40&fontColor=FFFFFF&fontAlignY=50&desc=Full%20Stack%20Developer%20%20·%20%20Aspiring%20AI%20Engineer&descSize=16&descColor=70A5FD&descAlignY=80" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=500&height=30&lines=MERN+Stack+%7C+Python+%7C+.NET+%7C+AI%2FML+%7C+SQL)](https://git.io/typing-svg)
+
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bobbala-laxmi-narasimha-reddy-689a01320/)
@@ -9,6 +13,8 @@
 [![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:budhilreddy024@gmail.com)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/narasimha9495)
+&nbsp;
+![Views](https://komarev.com/ghpvc/?username=narasimha9495&color=70A5FD&style=for-the-badge&label=VISITORS)
 
 </div>
 
