@@ -1,68 +1,156 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--        B LAXMI NARASIMHA REDDY — GITHUB PROFILE              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!--     B LAXMI NARASIMHA REDDY — DEVELOPER DASHBOARD PROFILE        -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- CUSTOM BANNER -->
-<img src="./assets/banner.jpg" width="100%" alt="banner"/>
-
-<br><br>
-
-# Welcome to Narasimha's GitHub </>
+<img src="./assets/banner.jpg" width="100%"/>
 
 <br>
 
-<!-- SOCIAL BADGES -->
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bobbala-laxmi-narasimha-reddy-689a01320/)
-[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:budhilreddy024@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/narasimha9495)
+# Hi, I'm Narasimha 👋
+### Full Stack Developer · Aspiring AI Engineer
+
+`Full Stack` &nbsp; `MERN` &nbsp; `AI/ML` &nbsp; `.NET` &nbsp; `Python`
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bobbala-laxmi-narasimha-reddy-689a01320/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:budhilreddy024@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/narasimha9495)
+![Views](https://komarev.com/ghpvc/?username=narasimha9495&color=70A5FD&style=flat-square&label=Profile+Views)
 
 </div>
 
 ---
 
-<!-- ═══════════════ TECHNOLOGIES ═══════════════ -->
+## About Me
+
+Full Stack Developer based in India, currently studying at **Nalla Narasimha Reddy Group of Institutions**. I build real-world applications using the MERN stack, Python, and .NET — and I'm working my way into AI and Machine Learning because that's where the future is heading.
+
+I'm someone who doesn't do things halfway. When I sit down to work on something, I stay locked in until it's done right. Whether it's debugging a backend issue at 2 AM or learning a new framework from scratch, I bring the same level of focus to everything I do. Studies, projects, work — I treat them all with the same intensity.
+
+I'm not just learning to land a job. I'm building skills because I want to **own a company** someday and create something that actually matters. That's the long game I'm playing.
+
+---
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏨 AI-SmartStay
+**AI-Powered Hostel Finder Platform**
+
+A full-stack MERN application that helps students discover, compare, and book verified hostels using live GPS location and an intelligent recommendation engine.
+
+- ✅ AI-powered hostel recommendations
+- ✅ Live GPS-based location search
+- ✅ User reviews & verified listings
+- ✅ Real-time booking system
+
+**Tech Stack:** `React` `Node.js` `MongoDB` `Express`
+
+[![View Project](https://img.shields.io/badge/View_Project-70A5FD?style=flat-square&logo=github&logoColor=white)](https://github.com/narasimha9495/AI-SmartStay)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌾 Smart Agriculture
+**IoT Solution for Hilly Regions**
+
+A smart agriculture monitoring system designed specifically for farming in hilly terrain, using sensor data and predictive analytics to help farmers make better decisions.
+
+- ✅ Real-time soil & weather monitoring
+- ✅ Crop health predictions using ML
+- ✅ Dashboard for farmers
+- ✅ Alert system for extreme conditions
+
+**Tech Stack:** `Python` `IoT` `Machine Learning`
+
+[![View Project](https://img.shields.io/badge/View_Project-70A5FD?style=flat-square&logo=github&logoColor=white)](https://github.com/narasimha9495/Smart-Agriculture-Hilly-Regions)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Smart Attendance System
+**Automated Attendance Tracking**
+
+A web-based smart attendance system that simplifies the way institutions track and manage student attendance with role-based access and analytics.
+
+- ✅ Automated attendance recording
+- ✅ Role-based access (admin/student)
+- ✅ Attendance analytics & reports
+- ✅ Clean, responsive dashboard
+
+**Tech Stack:** `JavaScript` `Node.js` `MongoDB`
+
+[![View Project](https://img.shields.io/badge/View_Project-70A5FD?style=flat-square&logo=github&logoColor=white)](https://github.com/narasimha9495/Smart-Attendance-System)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 Fake Review Detector
+**ML-Powered Review Analysis**
+
+A machine learning application that identifies and flags fake/suspicious product reviews to help users make genuine purchase decisions.
+
+- ✅ NLP-based review analysis
+- ✅ Fake vs genuine classification
+- ✅ Confidence scoring
+- ✅ Web interface for testing
+
+**Tech Stack:** `Python` `HTML` `Machine Learning`
+
+[![View Project](https://img.shields.io/badge/View_Project-70A5FD?style=flat-square&logo=github&logoColor=white)](https://github.com/narasimha9495/Fake-Review-Detector)
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tech Stack
+
 <div align="center">
 
-## ⚙️ *Technologies*
+#### Frontend Development
+<a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React"/></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript"/></a>&nbsp;
+<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="45" height="45" alt="TypeScript"/></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML5"/></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS3"/></a>&nbsp;
+<a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind"/></a>&nbsp;
+<a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="Bootstrap"/></a>
 
-#### Languages
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/PYTHON-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=512BD4)
-![HTML5](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+#### Backend Development
+<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js"/></a>&nbsp;
+<a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express"/></a>&nbsp;
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" width="45" height="45" alt="Python"/></a>&nbsp;
+<a href="https://dotnet.microsoft.com/"><img src="https://skillicons.dev/icons?i=dotnet" width="45" height="45" alt=".NET"/></a>&nbsp;
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" width="45" height="45" alt="C#"/></a>
 
-#### Frameworks & Libraries
-![React](https://img.shields.io/badge/REACT-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/NODE.JS-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
-![Express](https://img.shields.io/badge/EXPRESS-0D1117?style=for-the-badge&logo=express&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=512BD4)
-![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-0D1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
-![Tailwind](https://img.shields.io/badge/TAILWIND-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-
-#### Databases & Tools
-![MongoDB](https://img.shields.io/badge/MONGODB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![MySQL](https://img.shields.io/badge/MYSQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Git](https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_CODE-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![Postman](https://img.shields.io/badge/POSTMAN-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![Figma](https://img.shields.io/badge/FIGMA-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![Vercel](https://img.shields.io/badge/VERCEL-0D1117?style=for-the-badge&logo=vercel&logoColor=white)
+#### Database & DevOps
+<a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB"/></a>&nbsp;
+<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL"/></a>&nbsp;
+<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL"/></a>&nbsp;
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git"/></a>&nbsp;
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub"/></a>&nbsp;
+<a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" alt="Vercel"/></a>&nbsp;
+<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="VS Code"/></a>&nbsp;
+<a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman"/></a>&nbsp;
+<a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma"/></a>
 
 </div>
 
 ---
 
-<!-- ═══════════════ STATISTICS ═══════════════ -->
+## GitHub Analytics
+
 <div align="center">
-
-## 📊 *Statistics*
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=narasimha9495&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FFFFFF&area=true&area_color=70A5FD)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <table>
 <tr>
@@ -73,86 +161,34 @@
 </td>
 <td width="50%" align="center">
 
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=narasimha9495&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=C9D1D9&langs_count=8)
+
+</td>
+</tr>
+</table>
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=narasimha9495&theme=tokyonight&hide_border=true&background=0D1117&stroke=70A5FD&ring=70A5FD&fire=FF652F&currStreakLabel=70A5FD&sideLabels=70A5FD&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=545454)
 
-</td>
-</tr>
-</table>
-
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=narasimha9495&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=C9D1D9&langs_count=8)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=narasimha9495&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FFFFFF&area=true&area_color=70A5FD)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-<!-- ═══════════════ ABOUT ME ═══════════════ -->
-<div align="center">
+## Current Focus & Interests
 
-## 🧑‍💻 *About Me*
-
-</div>
-
-<table>
-<tr>
-<td width="35%" align="center">
-
-<img src="./assets/developer_avatar.jpg" width="280" alt="developer illustration"/>
-
-</td>
-<td width="65%">
-
-Hey! My name is **B Laxmi Narasimha Reddy**, and I'm a Full Stack Developer who is working towards becoming an AI Engineer. I'm currently studying at **Nalla Narasimha Reddy Group of Institutions**, and honestly, most of my time goes into building things and figuring out how stuff works under the hood.
-
-I'm someone who stays locked in once I start working on something. Whether it's studies or a project, I give it my full attention — no half measures. I don't just write code to get things done, I actually care about understanding what I'm building and why. That's just how I operate.
-
-Right now I'm deep into the **MERN stack**, **Python**, **SQL**, and **.NET**, and I'm slowly making my way into AI and Machine Learning because that's where I see myself going next. I like picking up new tools and frameworks, not because they're trendy, but because they help me build better things.
-
-*"The grind doesn't stop just because nobody's watching."*
-
-</td>
-</tr>
-</table>
+🔭 &nbsp; Working on **AI-powered full stack applications**  
+🌱 &nbsp; Learning **Machine Learning, Deep Learning & AI Engineering**  
+🎯 &nbsp; Goal: **Build and run my own tech company**  
+🎮 &nbsp; When offline: **Gaming & Cars** — two things I never get tired of  
+💬 &nbsp; Ask me about **MERN, Python, .NET, or building stuff from scratch**  
+📫 &nbsp; Reach me at **budhilreddy024@gmail.com**
 
 ---
 
-<!-- ═══════════════ HOBBIES & GOALS ═══════════════ -->
+## Trophies
+
 <div align="center">
-
-## 🎯 *Hobbies & Goals*
-
-</div>
-
-<table>
-<tr>
-<td width="60%">
-
-🎮 &nbsp; When I'm not coding, you'll probably find me **gaming** — it's how I unwind and honestly, it keeps my reflexes sharp.
-
-🚗 &nbsp; I have a serious thing for **cars**. I love them as much as I love my family, and that's saying something. Everything about them — the engineering, the design, the speed — just gets me going.
-
-🏢 &nbsp; My biggest goal? **Own a company and run a business.** I'm not building skills just to work for someone forever. I'm building them to create something of my own one day.
-
-🧠 &nbsp; Right now I'm focused on becoming an **AI Engineer** — that's the next chapter I'm writing for myself.
-
-📚 &nbsp; Student at **Nalla Narasimha Reddy Group of Institutions**
-
-> *"Dream big. Work hard. Stay consistent. Never quit."*
-
-</td>
-<td width="40%" align="center">
-
-<img src="./assets/hobbies_avatar.jpg" width="280" alt="hobbies illustration"/>
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ═══════════════ TROPHIES ═══════════════ -->
-<div align="center">
-
-## 🏆 *Trophies*
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=narasimha9495&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -160,10 +196,9 @@ Right now I'm deep into the **MERN stack**, **Python**, **SQL**, and **.NET**, a
 
 ---
 
-<!-- ═══════════════ SNAKE ═══════════════ -->
-<div align="center">
+## Contribution Snake
 
-## 🐍 *Contribution Snake*
+<div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/narasimha9495/narasimha9495/output/github-snake-dark.svg)
 
@@ -171,26 +206,31 @@ Right now I'm deep into the **MERN stack**, **Python**, **SQL**, and **.NET**, a
 
 ---
 
-<!-- ═══════════════ FEATURED PROJECTS ═══════════════ -->
+## Beyond Code
+
 <div align="center">
 
-## 🚀 *What I've Been Building*
-
 [![AI-SmartStay](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=narasimha9495&repo=AI-SmartStay&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=C9D1D9)](https://github.com/narasimha9495/AI-SmartStay)
-[![Smart-Agriculture](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=narasimha9495&repo=Smart-Agriculture-Hilly-Regions&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=C9D1D9)](https://github.com/narasimha9495/Smart-Agriculture-Hilly-Regions)
-[![Smart-Attendance](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=narasimha9495&repo=Smart-Attendance-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=C9D1D9)](https://github.com/narasimha9495/Smart-Attendance-System)
 [![LabNova](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=narasimha9495&repo=LabNova&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=C9D1D9)](https://github.com/narasimha9495/LabNova)
+[![Freelancer-Gaurd](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=narasimha9495&repo=Freelancer-Gaurd&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=C9D1D9)](https://github.com/narasimha9495/Freelancer-Gaurd)
+[![TASTY-KITCHEN](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=narasimha9495&repo=TASTY-KITCHEN&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=C9D1D9)](https://github.com/narasimha9495/TASTY-KITCHEN)
 
 </div>
 
 ---
 
-<!-- ═══════════════ FOOTER ═══════════════ -->
+## Let's Connect 🤝
+
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=narasimha9495&color=70A5FD&style=flat-square&label=Profile+Views)
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
 
-*Built with focus and a lot of late nights ☕*
+[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bobbala-laxmi-narasimha-reddy-689a01320/)
+[![Gmail](https://img.shields.io/badge/Send_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:budhilreddy024@gmail.com)
+
+<br>
+
+> *"Dream big. Work hard. Stay consistent. Never quit."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1B27,100:70A5FD&height=100&section=footer" width="100%"/>
 
