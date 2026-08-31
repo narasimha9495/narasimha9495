@@ -34,6 +34,23 @@ I'm not just learning to land a job. I'm building skills because I want to **own
 <tr>
 <td width="50%" valign="top">
 
+### 🏕️ CraftTrail
+**Creative Project Platform**
+
+A platform designed for showcasing and managing creative projects, bringing ideas to life through an intuitive and engaging interface.
+
+- ✅ Project showcase & management
+- ✅ Clean, modern UI/UX
+- ✅ User-friendly navigation
+- ✅ Responsive design
+
+**Tech Stack:** `JavaScript` `React` `Node.js`
+
+[![View Project](https://img.shields.io/badge/View_Project-70A5FD?style=flat-square&logo=github&logoColor=white)](https://github.com/narasimha9495/CraftTrail)
+
+</td>
+<td width="50%" valign="top">
+
 ### 🏨 AI-SmartStay
 **AI-Powered Hostel Finder Platform**
 
@@ -49,25 +66,25 @@ A full-stack MERN application that helps students discover, compare, and book ve
 [![View Project](https://img.shields.io/badge/View_Project-70A5FD?style=flat-square&logo=github&logoColor=white)](https://github.com/narasimha9495/AI-SmartStay)
 
 </td>
-<td width="50%" valign="top">
-
-### 🌾 Smart Agriculture
-**IoT Solution for Hilly Regions**
-
-A smart agriculture monitoring system designed specifically for farming in hilly terrain, using sensor data and predictive analytics to help farmers make better decisions.
-
-- ✅ Real-time soil & weather monitoring
-- ✅ Crop health predictions using ML
-- ✅ Dashboard for farmers
-- ✅ Alert system for extreme conditions
-
-**Tech Stack:** `Python` `IoT` `Machine Learning`
-
-[![View Project](https://img.shields.io/badge/View_Project-70A5FD?style=flat-square&logo=github&logoColor=white)](https://github.com/narasimha9495/Smart-Agriculture-Hilly-Regions)
-
-</td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+### 🔬 LabNova
+**Lab Management System**
+
+A comprehensive lab management platform that streamlines laboratory operations, resource tracking, and experiment management for educational institutions.
+
+- ✅ Lab resource management
+- ✅ Experiment tracking & logs
+- ✅ Role-based access control
+- ✅ Analytics dashboard
+
+**Tech Stack:** `JavaScript` `Node.js` `MongoDB`
+
+[![View Project](https://img.shields.io/badge/View_Project-70A5FD?style=flat-square&logo=github&logoColor=white)](https://github.com/narasimha9495/LabNova)
+
+</td>
 <td width="50%" valign="top">
 
 ### 🧠 Smart Attendance System
@@ -83,6 +100,25 @@ A web-based smart attendance system that simplifies the way institutions track a
 **Tech Stack:** `JavaScript` `Node.js` `MongoDB`
 
 [![View Project](https://img.shields.io/badge/View_Project-70A5FD?style=flat-square&logo=github&logoColor=white)](https://github.com/narasimha9495/Smart-Attendance-System)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎭 Kalabaata
+**Cultural & Creative Platform**
+
+A unique platform celebrating culture and creativity, built to connect people through shared cultural experiences and artistic expression.
+
+- ✅ Cultural content showcase
+- ✅ Community-driven features
+- ✅ Interactive user experience
+- ✅ Modern responsive design
+
+**Tech Stack:** `JavaScript` `React` `Node.js`
+
+[![View Project](https://img.shields.io/badge/View_Project-70A5FD?style=flat-square&logo=github&logoColor=white)](https://github.com/narasimha9495/kalabaata)
 
 </td>
 <td width="50%" valign="top">
@@ -204,9 +240,9 @@ A machine learning application that identifies and flags fake/suspicious product
 
 <div align="center">
 
-[![AI-SmartStay](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=narasimha9495&repo=AI-SmartStay&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=C9D1D9)](https://github.com/narasimha9495/AI-SmartStay)
+[![CraftTrail](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=narasimha9495&repo=CraftTrail&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=C9D1D9)](https://github.com/narasimha9495/CraftTrail)
 [![LabNova](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=narasimha9495&repo=LabNova&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=C9D1D9)](https://github.com/narasimha9495/LabNova)
-[![Freelancer-Gaurd](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=narasimha9495&repo=Freelancer-Gaurd&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=C9D1D9)](https://github.com/narasimha9495/Freelancer-Gaurd)
+[![kalabaata](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=narasimha9495&repo=kalabaata&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=C9D1D9)](https://github.com/narasimha9495/kalabaata)
 [![TASTY-KITCHEN](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=narasimha9495&repo=TASTY-KITCHEN&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=C9D1D9)](https://github.com/narasimha9495/TASTY-KITCHEN)
 
 </div>
