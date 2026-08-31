@@ -3,7 +3,7 @@
 
 <img src="./assets/banner.jpg" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=500&height=30&lines=MERN+Stack+%7C+Python+%7C+.NET+%7C+AI%2FML+%7C+SQL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=500&height=30&lines=MERN+Stack+%7C+Python+%7C+.NET+%7C+AI%2FML+%7C+SQL;Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br>
 
